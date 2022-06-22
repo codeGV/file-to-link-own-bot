@@ -1,127 +1,142 @@
-<h1 align="center">Telegram File Stream Bot</h3>
-<p align="center">
 
-  <p align="center">
-    A Telegram bot to stream files to web
-    <br />
-    <a href="https://telegram.dog/TG_FileStreamBot"><strong>Demo Bot »</strong></a>
-    <br />
-    <a href="https://github.com/codeGV/file-to-link-own-bot.git/issues">Report a Bug</a>
+## USE LATEST CODE FOR BETTER EXPERINCE
+### This code also works but I recommend using latest code [Click here](https://github.com/adarsh-goel/filestreambot-pro) to deploy it
+### If it doesnt matter keep scrolling 
+![GitHub repo size](https://img.shields.io/github/repo-size/adarsh-goel/filestreambot?color=yellow)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://t.me/filetoliprobot)
+[![Telegram -Bot](https://img.shields.io/badge/Telegram-Bot_2-purple.svg)](https://t.me/filetoliprorobot)
+![GitHub](https://img.shields.io/github/license/adarsh-goel/filestreambot)
+[![Bot Support](https://img.shields.io/badge/File%20Stream%20Bot-support%20group-blue)](https://t.me/codexmaniachat)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg)](https://t.me/codexmania)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/adarsh-goel/filestreambot)
+<h1 align="center">FileStreamBot</h1>
+<p align="center">
+  <img src="https://socialify.git.ci/adarsh-goel/filestreambot/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
+  
+
+  
+  
+
+``` 
+💥Superfast⚡️ download and stream links.
+💥No ads in generated links.
+💥Superfast interface.
+💥Along with the links you also get file information like name,size ,etc.
+💥Updates channel Support.
+💥Mongodb database support for broadcasting.
+```
+    
+## `Star and fork the repo Before deploying`
+   
+    
+   
+   <a href="https://github.com/adarsh-goel/FileStreamBot/issues">Report a Bug</a>
     |
-    <a href="https://github.com/codeGV/file-to-link-own-bot.git/issues">Request Feature</a>
+    <a href="https://github.com/adarsh-goel/FileStreamBot/issues">Request Feature</a>
   </p>
-</p>
+
 
 <hr>
 
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-this-bot">About this Bot</a>
-      <ul>
-        <li><a href="#original-repository">Original Repository</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#how-to-make-your-own">How to make your own</a>
-      <ul>
-        <li><a href="#deploy-on-heroku">Deploy using Heroku</a></li>
-        <li><a href="#host-it-on-vps-or-locally">Run it in a VPS / local</a></li>
-      </ul>
-    </li>
-    <li><a href="#setting-up-things">Setting up things</a></li>
-    <ul>
-      <li><a href="#mandatory-vars">Mandatory Vars</a></li>
-      <li><a href="#optional-vars">Optional Vars</a></li>
-    </ul>
-    <li><a href="#how-to-use-the-bot">How to use the bot</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact-me">Contact me</a></li>
-    <li><a href="#credits">Credits</a></li>
-  </ol>
-</details>
 
-## About This Bot
 
-<p align="center">
-    <a herf="https://github.com/codeGV/file-to-link-own-bot.git">
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
-    </a>
-</p>
-<p align='center'>
-    This bot will give you stream links for Telegram files without the need of waiting till the download completes
+## 🍁 About This Bot :
+
+![streaming-Professional-live_1](https://user-images.githubusercontent.com/88939380/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
+
 </p>
 
-### Original Repository
+ ### `   This bot will give you stream links for Telegram files without the need of waiting till the download completes`
 
-The main working part was taken from [Megatron](https://github.com/eyaadh/megadlbot_oss) and thanks to [eyaadh](https://github.com/eyaadh) for his awesome project.
 
-## How to make your own
 
-Either you could locally host or deploy on [Heroku](https://heroku.com)
+## ♢ How to make your own :
 
-### Deploy on Heroku
 
-Press the below button to fast deploy to Heroku
+<b>Deploy on Heroku or Railway:
 
-- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2Fzxlp%2Ftgfs)
 
-then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
+1. Fork This Repo <br>
+2. Click on the button to Deploy and follow steps <br>
+  
+3.then goto the variables tab for more info on setting up environmental variables. <br>
 
-### Host it on VPS or Locally
+<h4> So Follow Above Steps 👆 and then deploy other wise bot won't work</h4>
 
-```sh
-git clone https://github.com/codeGV/file-to-link-own-bot.git
-cd file-to-link-own-bot
+Press the below button to  deploy on Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/)
+  
+  
+ <p><b>Available commands and features:</b>
+ 
+<p>
+ 
+🐬USER COMMANDS<p>
+`/start - To start using me` <br>
+`/help  -  To know how to use me`
+
+🐬ADMIN COMMANDS<p>
+`/status  - to know how many users are using the bot` <br>
+`/broadcast - To send message to all the users using the bot`
+
+
+  
+  <b>Host it on VPS Locally :</b></summary>
+
+
+```py
+git clone https://github.com/adarsh-goel/FileStreamBot
+cd FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
-python3 -m WebStreamer
+python3 -m Adarsh
 ```
 
 and to stop the whole bot,
  do <kbd>CTRL</kbd>+<kbd>C</kbd>
 
-## Setting up things
+Setting up things
 
-If you're on Heroku, just add these in the Environmental Variables
+If you're on Heroku just add these in the Environmental Variables
 or if you're Locally hosting, create a file named `.env` in the root directory and add all the variables there.
 An example of `.env` file:
 
-```sh
-API_ID=452525
-API_HASH=esx576f8738x883f3sfzx83
-BOT_TOKEN=55838383:yourtbottokenhere
-MULTI_TOKEN1=55838383:yourfirstmulticlientbottokenhere
-MULTI_TOKEN2=55838383:yoursecondmulticlientbottokenhere
-MULTI_TOKEN3=55838383:yourthirdmulticlientbottokenhere
-BIN_CHANNEL=-100
+```py
+DATABASE_URL=  Get this from mongodb.com
 PORT=8080
-FQDN=yourserverip
-HAS_SSL=False
+API_ID= Get from my.telegram.org
+NO_PORT=False
+BOT_TOKEN= Get from botfather
+OWNER_ID= your owner id 
+API_HASH= Get from my.telegram.org
+UPDATES_CHANNEL= Enter Force sub channel username without @ if any  else set value to None
+BIN_CHANNEL=-100
+SESSION_NAME=Codexmania
+HAS_SSL=True
+FQDN= Enter Custom domain if any or server ip
 ```
-
-### Mandatory Vars
-
+ <b>Vars and Details :</b>
 `API_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
 
 `API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
 
 `BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
 
-`BIN_CHANNEL` : Create a new channel (private/public), post something in your channel. Forward that post to [@missrose_bot](https://telegram.dog/MissRose_bot) and **reply** `/id`. Now copy paste the forwarded channel ID in this field. 
+`BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://telegram.dog/MissRose_bot) as admin to the channel and type /id. Now copy paste the ID into this field.
 
-### For MultiClient
+`OWNER_ID` : Your Telegram User ID
+  
+`OWNER_USERNAME` : Your telegram username to be displayed in bot  . make one in you dont have.
 
-`MULTI_TOKEN1`: Add your first bot token here.
+`DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can ask in [Telegram](https://t.me/codexmania).
 
-`MULTI_TOKEN2`: Add your second bot token here.
+ Optional Vars
 
-you may also add as many as bots you want. (max limit is not tested yet)
-`MULTI_TOKEN3`, `MULTI_TOKEN4`, etc.
+`UPDATES_CHANNEL` : Put a Public Channel Username, so every user have to Join that channel to use the bot. Must add bot to channel as Admin to work properly.
 
-### Optional Vars
+`BANNED_CHANNELS` : Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with <kbd>Space</kbd>.
 
 `SLEEP_THRESHOLD` : Set a sleep threshold for flood wait exceptions happening globally in this telegram bot instance, below which any request that raises a flood wait will be automatically invoked again after sleeping for the required amount of time. Flood wait exceptions requiring higher waiting times will be raised. Defaults to 60 seconds.
 
@@ -129,54 +144,33 @@ you may also add as many as bots you want. (max limit is not tested yet)
 
 `PORT` : The port that you want your webapp to be listened to. Defaults to `8080`
 
-`WEB_SERVER_BIND_ADDRESS` : Your server bind address. Defauls to `0.0.0.0`
+`WEB_SERVER_BIND_ADDRESS` : Your server bind adress. Defauls to `0.0.0.0`
 
-`NO_PORT` : (can be either `True` or `False`) If you don't want your port to be displayed. You should point your `PORT` to `80` (http) or `443` (https) for the links to work. Ignore this if you're on Heroku.
+`NO_PORT` : If you don't want your port to be displayed. You should point your `PORT` to `80` (http) or `443` (https) for the links to work. Ignore this if you're on Heroku.
 
-`FQDN` :  A Fully Qualified Domain Name if present. Defaults to `WEB_SERVER_BIND_ADDRESS`
+`FQDN` :  A Fully Qualified Domain Name if present. Defaults to `WEB_SERVER_BIND_ADDRESS` </details>
 
-`HAS_SSL` : (can be either `True` or `False`) If you want the generated links in https format.
+<b>How to Use :</b>
 
-`PING_INTERVAL` : The time in ms you want the servers to be pinged each time to avoid sleeping (Only for Heroku). Defaults to `1200` or 20 minutes.
-## How to use the bot
-
-:warning: **Before using the  bot, don't forget to add all the bots (multi-client ones too) to the `BIN_CHANNEL` as an admin**
+:warning: **Before using the  bot, don't forget to add the bot to the `BIN_CHANNEL` as an Admin**
  
 `/start` : To check if the bot is alive or not.
 
+
+
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
-
-## faQ
-
-- How long the links will remain valid or is there any expiration time for the links generated by the bot?
-> The links will will be valid as longs as your bot is alive and you haven't deleted the log channel.
-
-## Contributing
-
-Feel free to contribute to this project if you have any further ideas
-
-## Contact me
-
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://xn--r1a.click/WhySooSerious)
-[![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://xn--r1a.click/WhyThisUsername)
-
-You can contact either via my [Telegram Group](https://xn--r1a.click/WhyThisUsername) ~~or you can PM me on [@EverythingSuckz](https://xn--r1a.click/EverythingSuckz)~~
+  ![image](https://user-images.githubusercontent.com/88939380/137128326-059f9c53-b3d0-40f0-8484-b17709fbcc11.png)
 
 
-## Credits
+### Channel Support
+`Bot also Supports with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with Get Download Link Button.` </details>
 
-- Me
-- [eyaadh](https://github.com/eyaadh) for his awesome [Megatron Bot](https://github.com/eyaadh/megadlbot_oss).
-- [BlackStone](https://github.com/eyMarv) for adding multi-client support.
-- [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-- [TheHamkerCat](https://github.com/TheHamkerCat) for helping me with my common doubts.
+### 🔷 Credits : 
 
-## Copyright
+- [Adarsh Goel_(me)](https://t.me/codexmania)
+- Everyone In This Journey !
+- `Feel free to contribute 😀`
 
-Copyright (C) 2022 [EverythingSuckz](https://github.com/EverythingSuckz) under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html).
-
-file-to-link-own-bot is Free Software: You can use, study share and improve it at your
-will. Specifically you can redistribute and/or modify it under the terms of the
-[GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) as
-published by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version. 
+  
+ 
+ 

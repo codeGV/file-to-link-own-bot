@@ -115,6 +115,6 @@ dmypy.json
 
 #session files
 *.session
-*.session-journal
-.env
-test.py
+Adarsh/template/new.html
+Adarsh/template/beta.html
+Adarsh/template/style.css
